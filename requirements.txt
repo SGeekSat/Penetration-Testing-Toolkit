@@ -1,0 +1,9 @@
+requests
+scapy
+argparse
+python-nmap
+beautifulsoup4
+dnspython
+numpy
+pandas
+colorama
