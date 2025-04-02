@@ -80,3 +80,4 @@ This toolkit is intended for legitimate security testing with proper authorizati
 - Document all testing activities thoroughly.
 
 
+THE OUTPUT FILE HAS BEEN ATTACHED 
